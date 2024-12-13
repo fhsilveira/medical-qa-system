@@ -55,6 +55,8 @@
  - Training Loss: 1.8207
  - Epochs: 3
 
+<img src="https://github.com/fhsilveira/medical-qa-system/blob/main/experiment_4_plot_loss.png?raw=true">(Experiment 4 - Training vs Evaluation Loss)
+
 ## Examples
 
 Q: What are the treatments for Idiopathic Pulmonary Fibrosis ?
