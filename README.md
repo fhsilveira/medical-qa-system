@@ -4,7 +4,7 @@
 
 - **t5_fine_tuning.ipynb** - Notebook with implementation of data inspection, preprocessing, model training and inference with rudimentary experiment control.
 - **t5_inference.ipynb** - Notebook comparing single inference using Flan-T5 base and fine-tuned models stored as experiments.
-- **data** - Folder containing subfolders used by the system to store input dataset, experiments (models and parameters) and results (latests fine-tuned model checkpoints).
+- **data** - Folder containing subfolders used by the system to store input dataset and experiment results (models and parameters saved after the model is trained).
 
 ## Analysis and Approaches
 
