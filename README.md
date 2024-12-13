@@ -60,12 +60,15 @@
 ## Examples
 
 Q: What are the treatments for Idiopathic Pulmonary Fibrosis ?
+
 A: How might idiopathic pulmonary fibrosis (IPF) be treated? Treatment of patients with IPF consists of controlling the rate of blood flow from the brain to the heart, or by increasing the amount of fluids in the lungs. Pulmonary fibrosis may be treated with treatment based on the cause of the condition. Treatment depends on the following: - Symptoms - Medications - Surgery - Arthralgia - Pulmonary transplant - Genetic testing - Surgery may be necessary to prevent the progression of IPF
 
 Q: Do you have information about Coronary Artery Bypass Surgery
+
 A: Summary : Coronary artery bypass surgery involves the surgery to close the heart muscle. The surgeon places a catheter or balloon at the center of the coronary artery, allowing it to travel through the heart. This will help your heart beat faster, easier, and prevent any complications. The surgery helps your body break down sugars and blood vessels. It helps to reduce the pressure in the heart. A heart attack means the disease can stop - Infections such as heart attacks, heart failure, stroke, and cardiomyopathy. Most heart surgeries 
 
 Q: What is (are) galactosialidosis ?
+
 A: Galactosialidosis is a disorder in which a sugar gland forms a small blood vessel to carry fats and other carbohydrates to the body. This vessel is called a glucuronis, which is found in many foods and in plants, including - potatoes, cabbage, broccoli, cabbage, lettuce, tomatoes and green beans - beans, red pepper, onions, and other vegetables - grapefruits, beets, onions and garlic - agar, garlic powder, tomatoes, peppers, onions, onions and garlic - fatty liver and kidney mal
 
 ## Potential improvements
